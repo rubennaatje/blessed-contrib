@@ -28,7 +28,7 @@
   "dependencies": {
     "ansi-term": ">=0.0.2",
     "chalk": "^1.1.0",
-    "drawille-canvas-blessed-contrib": "rubennaatje/drawille-canvas-blessed-contrib/master",
+    "drawille-canvas-blessed-contrib": "rubennaatje/drawille-canvas-blessed-contrib#master",
     "lodash": "~>=4.17.11",
     "map-canvas": ">=0.1.5",
     "marked": "^0.6.2",
